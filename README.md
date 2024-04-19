@@ -1,7 +1,8 @@
-# Custom project from Hilla
+# File-Upload and -Download in Hilla
 
-This project can be used as a starting point to create your own Hilla application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+This project shows how to handle a file upload and download in a [Hilla](https://hilla.dev) web app using Hilla's [Upload](https://hilla.dev/docs/react/components/upload) and [AutoGrid](https://hilla.dev/docs/react/components/auto-grid) components and a Spring [RestController](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/bind/annotation/RestController.html).
+
+Please checkout out the corresponding [blog post](https://www.rene-wilby.de/en/blog/hilla-file-upload-download/), to find out more about the project, its intention and how to use it.
 
 ## Running the application
 
